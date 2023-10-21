@@ -1,6 +1,6 @@
 [![Continuous Integration Test](https://github.com/nogibjj/RustProc_YCLiu/actions/workflows/CICD.yml/badge.svg)](https://github.com/nogibjj/RustProc_YCLiu/actions/workflows/CICD.yml)
 
-## Compare Processing Speed of Rust and Python 
+## Compare Processing Speed Between Rust and Python 
 
 This repository compares the processing speed of Rust and python by **getting the sum of _1 million_ integers**.
 
