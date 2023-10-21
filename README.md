@@ -1,16 +1,17 @@
-[![CI](https://github.com/nogibjj/SQLite_YCLiu/actions/workflows/cicd.yml/badge.svg)](https://github.com/nogibjj/SQLite_YCLiu/actions/workflows/cicd.yml)
+[![Continuous Integration Test](https://github.com/nogibjj/RustProc_YCLiu/actions/workflows/CICD.yml/badge.svg)](https://github.com/nogibjj/RustProc_YCLiu/actions/workflows/CICD.yml)
+
 ## Compare Processing Speed of Rust and Python 
 
 This repository compares the processing speed of Rust and python by **getting the sum of _1 million_ integers**.
 
 Below is an overview of the files in this project:
 
-1. **Main functions for querying on databse**
-   <br>a. _main.py_: create a list of integers from 1 to 1,000,000 and output the sum, and processing time. Below is the result.
+1. **Main functions Rust Python Speed Comparison**
+   <br>a. _main.py_: create a list of integers from 1 to 1,000,000, output the sum, and processing time. Below is the result.
 ```
 Added 1,000,000 numbers within 0.0318 seconds
 ```
-   <br>b. _DataProc/src/_main.rs_: create a list of integers from 1 to 1,000,000 and output and test the sum, and processing time. Below is the result.
+   <br>b. _DataProc/src/_main.rs_: create a list of integers from 1 to 1,000,000, output and test the sum, and processing time. Below is the result.
 ```
 Added 1,000,000 numbers within 9.466237ms
 ```
