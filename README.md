@@ -1,5 +1,33 @@
-# A Brief Rust Tutorial
-A brief tutorial on Rust for the O'Reilly book Enterprise MLOps as well as Duke Cloud Computing for Data Course.
-website here:  https://nogibjj.github.io/rust-tutorial/ *(btw, yes, I made this image using Rust)*
+[![CI](https://github.com/nogibjj/SQLite_YCLiu/actions/workflows/cicd.yml/badge.svg)](https://github.com/nogibjj/SQLite_YCLiu/actions/workflows/cicd.yml)
+## Compare Processing Speed of Rust and Python 
 
-![sd_final (1)](https://user-images.githubusercontent.com/58792/213264730-91ea442f-ec3d-4af2-9975-500c0d9ac7d0.png)
+This repository compares the processing speed of Rust and python by **getting the sum of _1 million_ integers**.
+
+Below is an overview of the files in this project:
+
+1. **Main functions for querying on databse**
+   <br>a. _main.py_: create a list of integers from 1 to 1,000,000 and output the sum, and processing time. Below is the result.
+```
+Added 1,000,000 numbers within 0.0318 seconds
+```
+   <br>b. _DataProc/src/_main.rs_: create a list of integers from 1 to 1,000,000 and output and test the sum, and processing time. Below is the result.
+```
+Added 1,000,000 numbers within 9.466237ms
+```
+From the results above, we can see that **rust processed this 1,000,000 datapoints around _3.5 times faster_ than python**
+ 
+3. **Testing Functions**
+   <br>c. _test_main.py_: test the output sum of main.py.
+   
+4. **Github actions setup for continuous integration**
+  <br>d. _.github/workflows/cicd.yml_: Quality control actions are triggered when pushed/ pulled to main branch. After setting up the environment, actions of **installing packages**, **linting**, **testing**, **formatting** would be executed in order (specified in Makefile). 
+
+5. **Other files for development environment settings**
+  <br>e. _.devcontainer_: set up the environment for development.
+  <br>f. _.gitignore_: specify file names to ignore.
+  <br>g. _requirements.txt_: list required packages for the project.
+
+6. **Description of the project**
+   <br>h. _README.md_: THIS FILE, explaining the purpose and structure of the directory, with screenshot of example output.
+
+
