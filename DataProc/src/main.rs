@@ -5,7 +5,7 @@ fn test_cal_speed() -> i64 {
         amount += num;
     }
     let time_end = std::time::Instant::now();
-    println!("Add 1,000,000 numbers within {:?} seconds", time_end - time_start);
+    println!("Added 1,000,000 numbers within {:?}", time_end - time_start);
     amount
 }
 

@@ -7,7 +7,7 @@ def testCalSpeed():
     for num in test_l:
         Amount += num
     time_end = time.perf_counter()
-    print(f"Add 1,000,000 numbers within {time_end - time_start:0.4f} seconds")
+    print(f"Added 1,000,000 numbers within {time_end - time_start:0.4f} seconds")
     return Amount
 
 if __name__ == "__main__":
