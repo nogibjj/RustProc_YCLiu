@@ -9,13 +9,15 @@ Below is an overview of the files in this project:
 1. **Main functions Rust Python Speed Comparison**
    <br>a. _main.py_: create a list of integers from 1 to 1,000,000, output the sum, and processing time. Below is the result.
 ```
-Added 1,000,000 numbers within 0.0318 seconds
+Added 100,000,000 numbers within 3.3603372330001093 s(econds)
+CPU Usage: 8.4%
 ```
    <br>b. _DataProc/src/_main.rs_: create a list of integers from 1 to 1,000,000, output and test the sum, and processing time. Below is the result.
 ```
-Added 1,000,000 numbers within 9.466237ms
+Added 100,000,000 numbers within 1.075051524s
+CPU Usage: 62.29%
 ```
-From the results above, we can see that **rust processed this 1,000,000 datapoints around _3.5 times faster_ than python**
+From the results above, we can see that **rust processed this 1,000,000 datapoints around _3.5 times faster_ than python**. On the other hand, rust required more CPU resources.
  
 3. **Testing Functions**
    <br>c. _test_main.py_: test the output sum of main.py.
