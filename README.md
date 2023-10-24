@@ -7,7 +7,7 @@ This repository compares the processing speed of Rust and python by **getting th
 Below is an overview of the files in this project:
 
 1. **Main functions Rust Python Speed Comparison**
-   <br>a. _main.py_: create a list of integers from 1 to 1,000,000, output the sum, and processing time. Below is the result.
+   <br>a. _main.py_: create a list of integers from 1 to 100,000,000, output the sum, and processing time. Below is the result.
 ```
 Added 100,000,000 numbers within 3.3603372330001093 s(econds)
 CPU Usage: 8.4%
