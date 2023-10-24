@@ -12,7 +12,7 @@ Below is an overview of the files in this project:
 Added 100,000,000 numbers within 3.3603372330001093 s(econds)
 CPU Usage: 8.4%
 ```
-   <br>b. _DataProc/src/_main.rs_: create a list of integers from 1 to 1,000,000, output and test the sum, and processing time. Below is the result.
+   <br>b. _DataProc/src/main.rs_: create a list of integers from 1 to 1,000,000, output and test the sum, and processing time. Below is the result.
 ```
 Added 100,000,000 numbers within 1.075051524s
 CPU Usage: 62.29%
