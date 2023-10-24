@@ -1,0 +1,18 @@
+/workspaces/RustProc_YCLiu/DataProc/target/debug/deps/platforms-304dc773ec52a650.rmeta: /usr/local/cargo/registry/src/index.crates.io-6f17d22bba15001f/platforms-2.0.0/src/lib.rs /usr/local/cargo/registry/src/index.crates.io-6f17d22bba15001f/platforms-2.0.0/src/error.rs /usr/local/cargo/registry/src/index.crates.io-6f17d22bba15001f/platforms-2.0.0/src/platform.rs /usr/local/cargo/registry/src/index.crates.io-6f17d22bba15001f/platforms-2.0.0/src/platform/tier1.rs /usr/local/cargo/registry/src/index.crates.io-6f17d22bba15001f/platforms-2.0.0/src/platform/tier2.rs /usr/local/cargo/registry/src/index.crates.io-6f17d22bba15001f/platforms-2.0.0/src/platform/tier3.rs /usr/local/cargo/registry/src/index.crates.io-6f17d22bba15001f/platforms-2.0.0/src/platform/req.rs /usr/local/cargo/registry/src/index.crates.io-6f17d22bba15001f/platforms-2.0.0/src/platform/tier.rs /usr/local/cargo/registry/src/index.crates.io-6f17d22bba15001f/platforms-2.0.0/src/target.rs /usr/local/cargo/registry/src/index.crates.io-6f17d22bba15001f/platforms-2.0.0/src/target/arch.rs /usr/local/cargo/registry/src/index.crates.io-6f17d22bba15001f/platforms-2.0.0/src/target/env.rs /usr/local/cargo/registry/src/index.crates.io-6f17d22bba15001f/platforms-2.0.0/src/target/os.rs
+
+/workspaces/RustProc_YCLiu/DataProc/target/debug/deps/platforms-304dc773ec52a650.d: /usr/local/cargo/registry/src/index.crates.io-6f17d22bba15001f/platforms-2.0.0/src/lib.rs /usr/local/cargo/registry/src/index.crates.io-6f17d22bba15001f/platforms-2.0.0/src/error.rs /usr/local/cargo/registry/src/index.crates.io-6f17d22bba15001f/platforms-2.0.0/src/platform.rs /usr/local/cargo/registry/src/index.crates.io-6f17d22bba15001f/platforms-2.0.0/src/platform/tier1.rs /usr/local/cargo/registry/src/index.crates.io-6f17d22bba15001f/platforms-2.0.0/src/platform/tier2.rs /usr/local/cargo/registry/src/index.crates.io-6f17d22bba15001f/platforms-2.0.0/src/platform/tier3.rs /usr/local/cargo/registry/src/index.crates.io-6f17d22bba15001f/platforms-2.0.0/src/platform/req.rs /usr/local/cargo/registry/src/index.crates.io-6f17d22bba15001f/platforms-2.0.0/src/platform/tier.rs /usr/local/cargo/registry/src/index.crates.io-6f17d22bba15001f/platforms-2.0.0/src/target.rs /usr/local/cargo/registry/src/index.crates.io-6f17d22bba15001f/platforms-2.0.0/src/target/arch.rs /usr/local/cargo/registry/src/index.crates.io-6f17d22bba15001f/platforms-2.0.0/src/target/env.rs /usr/local/cargo/registry/src/index.crates.io-6f17d22bba15001f/platforms-2.0.0/src/target/os.rs
+
+/usr/local/cargo/registry/src/index.crates.io-6f17d22bba15001f/platforms-2.0.0/src/lib.rs:
+/usr/local/cargo/registry/src/index.crates.io-6f17d22bba15001f/platforms-2.0.0/src/error.rs:
+/usr/local/cargo/registry/src/index.crates.io-6f17d22bba15001f/platforms-2.0.0/src/platform.rs:
+/usr/local/cargo/registry/src/index.crates.io-6f17d22bba15001f/platforms-2.0.0/src/platform/tier1.rs:
+/usr/local/cargo/registry/src/index.crates.io-6f17d22bba15001f/platforms-2.0.0/src/platform/tier2.rs:
+/usr/local/cargo/registry/src/index.crates.io-6f17d22bba15001f/platforms-2.0.0/src/platform/tier3.rs:
+/usr/local/cargo/registry/src/index.crates.io-6f17d22bba15001f/platforms-2.0.0/src/platform/req.rs:
+/usr/local/cargo/registry/src/index.crates.io-6f17d22bba15001f/platforms-2.0.0/src/platform/tier.rs:
+/usr/local/cargo/registry/src/index.crates.io-6f17d22bba15001f/platforms-2.0.0/src/target.rs:
+/usr/local/cargo/registry/src/index.crates.io-6f17d22bba15001f/platforms-2.0.0/src/target/arch.rs:
+/usr/local/cargo/registry/src/index.crates.io-6f17d22bba15001f/platforms-2.0.0/src/target/env.rs:
+/usr/local/cargo/registry/src/index.crates.io-6f17d22bba15001f/platforms-2.0.0/src/target/os.rs:
+
+# env-dep:TARGET=x86_64-unknown-linux-gnu
